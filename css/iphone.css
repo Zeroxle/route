@@ -1,0 +1,53 @@
+@media screen and (max-width:768px){
+.nav p,.price{
+	font-size: 22px;
+}	
+.message p,.textdiv{
+	font-size: 26px;
+}
+.textdiv span{
+	font-size: 18px;
+}
+#navli>li{
+	font-size: 24px;
+}
+.tubiao1{
+	font-size: 30px;
+}
+#day h2{
+	font-size: 34px;
+	
+}
+#day h4{
+	font-size: 32px;
+}
+#day p,#day h3{
+	font-size: 30px;
+}
+#three dt,#four dt,#five p{
+	font-size: 35px;
+}
+#three ol li,#four ol li{
+	font-size: 35px;
+	line-height: 45px;
+}
+.commentmid{
+	width: 35%;
+}
+.commentright{
+	width: 35%;
+}
+.commentright{
+	padding-left: 0;
+	padding-top: 25px;
+}
+.commentmid table tr td:first-child,.commentmid table tr td:last-child,.commentright p span{
+	font-size:30px;
+	color: #666666;
+}
+.my1, .yb1, .bmy1,.my2, .yb2, .bmy2{
+	height: 18px;
+}
+
+
+}
